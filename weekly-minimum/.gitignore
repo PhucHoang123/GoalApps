@@ -1,0 +1,7 @@
+node_modules/
+dist/
+src-tauri/target/
+.cargo-cache/
+.pnpm-store/
+test-profile/
+native-test-data/
